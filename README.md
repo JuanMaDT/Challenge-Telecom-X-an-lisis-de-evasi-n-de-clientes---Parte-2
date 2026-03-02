@@ -1,12 +1,12 @@
 # Predicción de Cancelación de Clientes (Customer Churn)
 
-##Descripción del Proyecto
+## Descripción del Proyecto
 
 Este proyecto tiene como objetivo predecir la cancelación de clientes (*churn*) utilizando técnicas de Machine Learning.
 
 Se entrenaron y evaluaron diferentes modelos de clasificación para identificar los factores que influyen en la cancelación y proponer estrategias de retención basadas en los resultados obtenidos.
 
-##Dataset
+## Dataset
 
 El conjunto de datos incluye información demográfica, contractual y de comportamiento del cliente, como:
 
@@ -24,7 +24,7 @@ División de datos:
 * 20% prueba
 
 
-##Modelos Implementados
+## Modelos Implementados
 
 Se entrenaron los siguientes modelos:
 
@@ -34,7 +34,7 @@ Se entrenaron los siguientes modelos:
 * (Opcional) K-Nearest Neighbors
 
 
-##Métricas de Evaluación
+## Métricas de Evaluación
 
 Cada modelo fue evaluado con:
 
@@ -50,7 +50,7 @@ Estas métricas permiten evaluar tanto el rendimiento general como la capacidad 
 
 ## Resultados y Comparación
 
-###Mejor Modelo
+### Mejor Modelo
 
 El modelo con mejor desempeño general fue **Random Forest**, ya que presentó:
 
@@ -63,7 +63,7 @@ Esto es clave porque detectar clientes que van a cancelar es más importante que
 ---
 
 
-##Autor
+## Autor
 
 Juan Manuel Diaz Torres
 
